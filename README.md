@@ -18,7 +18,7 @@ Below is a chronological list of the projects in this repository. Each folder co
 | # | Project Name | Main Concepts Explored | Status |
 |---|---|---|---|
 | **01** | [Bank Customer Churn](./01_bank_customer_churn) | Classification, Data Preprocessing, Random Forest, XGBoost | Completed |
-
+| **02** | [Movie review sentiment analysis](./02_movie_review_sentiment_analysis) | Data Preprocessing, Embedding Layer, RNN | Completed |
 ---
 
 ## Navigation
